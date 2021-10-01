@@ -1,3 +1,4 @@
 ## Luffy
 ## Zoro
 ## Sanji
+## Nami
